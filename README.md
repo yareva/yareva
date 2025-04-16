@@ -1,4 +1,11 @@
-#
+## 👨‍💻 About Me
+
+I'm a Software Engineering student at San Jose State University passionate about building innovative solutions. My journey in tech spans web development, AI, data science, ML, and game development.
+
+- 🎓 Studying Software Engineering at San Jose State University
+- 🌱 Focused on **Full Stack and AI** innovations
+- 📸 Automotive photographer in my free time
+- 🔭 Working on projects combining technology with real-world solutions
 
 <!--
 **yareva/yareva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
