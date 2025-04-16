@@ -7,6 +7,10 @@ I’m a Software Engineering student at San Jose State University, building proj
 - 📸 Automotive photographer in my free time
 - 🔭 Working on projects combining technology with real-world solutions
 
+- <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yareva&label=Profile%20views&color=0e75b6&style=flat" alt="yareva" />
+</p>
+
 <!--
 **yareva/yareva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
