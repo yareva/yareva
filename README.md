@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 About Me
 
-A Software Engineering student at San Jose State University, building projects in **Web Development, AI/ML, and Game Development**.
+A Software Engineering student at San Jose State University, building projects in **Web Development,IoT, AI/ML, and Game Development**.
 
 - 🌱 Focused on **Full Stack and AI/ML** applications
 - 🔭 Building projects that integrate technology into practical solutions
