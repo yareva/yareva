@@ -1,22 +1,15 @@
 # hi, i'm yanin ˚✧
 
-> software engineer · aerospace nerd · ocean enjoyer
+> software engineer 
 
 ---
 
 ## ˚⊹ about me
 
 ​```
-B.S. Software Engineering @ SJSU — May 2025
-M.S. Software Engineering @ SJSU — Fall 2025
-City of San José
-San Jose, CA
+B.S. Software Engineering @ SJSU — May 2026
+M.S. Software Engineering @ SJSU — Fall 2026
 ​```
-
-i write code, break it, and figure out why  
-into systems that actually matter —  
-satellites, defense tech, autonomous everything
-
 ---
 
 ## ˚⊹ tools & tech
@@ -25,14 +18,6 @@ satellites, defense tech, autonomous everything
 ![Python](https://img.shields.io/badge/Python-7aab98?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-a8c5a0?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-b8d4c8?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## ˚⊹ right now
-
-- finishing my bachelor's
-- exploring ROS2 + autonomous systems
-- starting my master's in fall
 
 ---
 
