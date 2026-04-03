@@ -12,9 +12,6 @@ M.S. Software Engineering @ SJSU — Fall 2026
 
 City of San José · San Jose, CA
 
-✦ into systems that actually matter —
-satellites, defense tech, autonomous everything
-
 ---
 
 ## :࿔*:･ interests
