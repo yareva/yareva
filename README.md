@@ -9,18 +9,11 @@ B.S. Software Engineering @ SJSU — May 2026
 M.S. Software Engineering @ SJSU — Fall 2026
 City of San José · San Jose, CA
 
-✦ into systems that actually matter —
-satellites, defense tech, autonomous everything
-
 ---
 
 ## :࿔*:･ interests
 
-- autonomous vehicles & robotics
-- aerospace & defense software
-- mission-critical systems
-- civic tech
-- healthcare technology
+robotics · autonomous vehicles · aerospace · defense · healthcare
 
 ---
 
