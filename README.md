@@ -6,8 +6,8 @@
 ## :࿔*:･ about
 
 B.S. Software Engineering @ SJSU — May 2026
+
 M.S. Software Engineering @ SJSU — Fall 2026
-City of San José · San Jose, CA
 
 ---
 
