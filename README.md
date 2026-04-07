@@ -1,5 +1,5 @@
 # about me ⋆˙
-> ⟡ software engineer @ sjsu · full stack · systems programming ⸙
+> ⟡ software engineer @ sjsu · full stack · systems programming
 
 ---
 
