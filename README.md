@@ -1,5 +1,5 @@
 # about me ⋆˙
-> ⟡ software engineer @ sjsu
+> software engineer @ sjsu
 
 ---
 
