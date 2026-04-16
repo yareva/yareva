@@ -3,7 +3,7 @@
 
 ---
 
-## :࿔*:･ about me
+## :࿔*:･ about
 
 B.S. Software Engineering @ SJSU — May 2026
 
