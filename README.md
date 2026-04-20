@@ -13,7 +13,7 @@ M.S. Software Engineering @ SJSU — Starting Fall 2026
 
 ## :࿔*:･ interests
 
-robotics · autonomous vehicles
+robotics · autonomous vehicles · defense
 
 ---
 
