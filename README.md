@@ -1,5 +1,5 @@
 # about me ⋆˙
-> software engineering @ sjsu
+> software engineering bs/ms @ sjsu
 
 ---
 
