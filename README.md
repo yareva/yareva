@@ -11,12 +11,6 @@ M.S. Software Engineering @ SJSU — Starting Fall 2026
 
 ---
 
-## :࿔*:･ interests
-
-computer vision · defense
-
----
-
 ## :࿔*:･ languages
 
 <p align="center">
