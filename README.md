@@ -1,5 +1,5 @@
 # about me ⋆˙
-> software engineering bs/ms @ sjsu
+> software engineering ms @ sjsu
 
 ---
 
@@ -7,7 +7,7 @@
 
 B.S. Software Engineering @ SJSU — May 2026
 
-M.S. Software Engineering @ SJSU — Starting Fall 2026
+M.S. Software Engineering @ SJSU — Starting Aug 2026
 
 ---
 
