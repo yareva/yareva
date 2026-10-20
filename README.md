@@ -1,13 +1,5 @@
 # about me ⋆˙
-> software engineering ms @ sjsu
-
----
-
-## :࿔*:･ about
-
-B.S. Software Engineering @ SJSU — May 2026
-
-M.S. Software Engineering @ SJSU — Starting Aug 2026
+> swe @ sjsu
 
 ---
 
